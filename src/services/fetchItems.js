@@ -23,7 +23,7 @@ const fetchItems = () => {
       linkBtn: "https://kodemia.mx/tamales/mole",
     },
     {
-      title: "Tamal de dulce",
+      title: "Tamal de elote",
       imgUrl:
         "https://cdn7.kiwilimon.com/recetaimagen/24601/1900x1080/19545.jpg.webp",
       text: "Pa' los niños",
